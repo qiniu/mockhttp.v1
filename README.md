@@ -1,7 +1,7 @@
 mockhttp
 ========
 
-[![Build Status](https://travis-ci.org/qiniu/mockhttp.png?branch=master)](https://travis-ci.org/qiniu/mockhttp)
+[![Build Status](https://travis-ci.org/qiniu/mockhttp.png?branch=master)](https://travis-ci.org/qiniu/mockhttp) [![Build Status](https://drone.io/github.com/qiniu/mockhttp/status.png)](https://drone.io/github.com/qiniu/mockhttp/latest)
 
 ![logo](http://qiniutek.com/images/logo-2.png)
 
