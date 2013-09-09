@@ -16,5 +16,5 @@ go get github.com/qiniu/mockhttp
 
 ## Example
 
-See [examples](https://github.com/qiniu/mockhttp/tree/develop/examples)
+See [examples](https://github.com/qiniu/mockhttp/tree/develop/examples/basic)
 
