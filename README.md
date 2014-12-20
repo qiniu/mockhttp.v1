@@ -8,10 +8,15 @@ mockhttp
 mockhttp is a unit test tool that allow you test web services without listening port.
 
 
+## Document
+
+See http://godoc.org/github.com/qiniu/mockhttp.v1
+
+
 ## Install
 
 ```
-go get github.com/qiniu/mockhttp
+go get github.com/qiniu/mockhttp.v1
 ```
 
 ## Example
